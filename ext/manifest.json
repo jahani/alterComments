@@ -1,0 +1,21 @@
+{
+  "name": "Alter Comments",
+  "version": "1.0.2",
+  "manifest_version": 2,
+  "description": "Adds discussions/comments for every single page.",
+  "homepage_url": "http://alterComments.ebnes.ir",
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "default_locale": "en",
+  "permissions": [
+    "tabs"
+	],
+  "browser_action": {
+    "default_icon": "icons/icon19.png",
+    "default_title": "Alter Comments",
+    "default_popup": "popup.html"
+  }
+}

@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+}
+body {
+  font-family: 'Indie Flower', cursive;
+}
+.container-fluid {
+  
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 642px;
+}
+
+.header {
+  padding-left: 1em;
+  padding-right: 1em;
+  border-bottom: thick solid #3CB371;
+}
+
+h1 {
+  display: inline;
+  color: #3CB371;
+  font-family: 'Lobster', cursive;
+  font-size: 2.5em;
+}
+
+a:link, a:visited, a:hover, a:active {
+    text-decoration: none;
+}
+
+.options {
+  font-family: 'Indie Flower', cursive;
+}
+
+.link {
+  color: MediumSeaGreen;
+}
+.link:hover {
+  color: LightGreen;
+}
+
+.comments {
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+}
+
+
+.footer {
+  padding-left: 1em;
+  padding-right: 1em;
+  border-top: thick solid #3CB371;
+}
